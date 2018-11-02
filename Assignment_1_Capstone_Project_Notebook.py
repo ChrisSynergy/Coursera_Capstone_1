@@ -9,21 +9,21 @@
             }
         }, 
         {
-            "source": "import pandas as pd", 
+            "execution_count": 1, 
             "cell_type": "code", 
             "metadata": {}, 
             "outputs": [], 
-            "execution_count": 1
+            "source": "import pandas as pd"
         }, 
         {
-            "source": "import numpy as np", 
+            "execution_count": 2, 
             "cell_type": "code", 
             "metadata": {}, 
             "outputs": [], 
-            "execution_count": 2
+            "source": "import numpy as np"
         }, 
         {
-            "source": "print('Hello Capstone Project Course!')", 
+            "execution_count": 3, 
             "cell_type": "code", 
             "metadata": {}, 
             "outputs": [
@@ -33,14 +33,14 @@
                     "text": "Hello Capstone Project Course!\n"
                 }
             ], 
-            "execution_count": 3
+            "source": "print('Hello Capstone Project Course!')"
         }, 
         {
-            "source": "", 
+            "execution_count": null, 
             "cell_type": "code", 
             "metadata": {}, 
             "outputs": [], 
-            "execution_count": null
+            "source": ""
         }
     ], 
     "metadata": {
@@ -54,8 +54,8 @@
             "nbconvert_exporter": "python", 
             "version": "3.5.5", 
             "name": "python", 
-            "pygments_lexer": "ipython3", 
             "file_extension": ".py", 
+            "pygments_lexer": "ipython3", 
             "codemirror_mode": {
                 "version": 3, 
                 "name": "ipython"
